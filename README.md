@@ -12,6 +12,10 @@
 ```bash
 Download from GitHub and unzip it
 ```
+## or
+```bash
+git clone https://github.com/nightboy-iran/Cracker-Wi-Fi-V2.git
+```
 
 ## Usage
 
