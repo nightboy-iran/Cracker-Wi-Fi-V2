@@ -20,6 +20,7 @@ git clone https://github.com/nightboy-iran/Cracker-Wi-Fi-V2.git
 ## Usage
 
 ```cmd
+cd Cracker-Wi-Fi-V2
 python main.py
 ```
 
